@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/foodyrestaurants-react/precache-manifest.8dbb6efc96e2567cd5ee2355d6b783b1.js"
+  "/foodyrestaurants-react/precache-manifest.58f085106731546f60b1cd98bedbb3e4.js"
 );
 
 self.addEventListener('message', (event) => {
