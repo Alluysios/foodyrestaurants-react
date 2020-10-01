@@ -1,0 +1,38 @@
+.navigation {
+    font-size: 1.6rem;
+    font-weight: 700;
+    padding: 3rem 5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    @media screen and (max-width: 479px) {
+        padding: 2rem 2rem;
+        font-size: 1.4rem;
+    }
+
+    &__logo {
+        font-size: 2rem;
+        font-weight: 700;
+        font-family: 'Carter One', cursive;
+
+        & a {
+            font-size: 2rem;
+
+            @media screen and (max-width: 479px) {
+                font-size: 1.6rem;
+            }
+        }
+    }
+
+    &__list {
+        
+        &-item {
+            margin: 0 1rem;
+            
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+}
