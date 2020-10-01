@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/foodyrestaurants-react/static/css/main.f6b05f27.chunk.css",
+    "main.js": "/foodyrestaurants-react/static/js/main.fbb6b49f.chunk.js",
+    "main.js.map": "/foodyrestaurants-react/static/js/main.fbb6b49f.chunk.js.map",
+    "runtime-main.js": "/foodyrestaurants-react/static/js/runtime-main.951e2d57.js",
+    "runtime-main.js.map": "/foodyrestaurants-react/static/js/runtime-main.951e2d57.js.map",
+    "static/js/2.bd9ddd25.chunk.js": "/foodyrestaurants-react/static/js/2.bd9ddd25.chunk.js",
+    "static/js/2.bd9ddd25.chunk.js.map": "/foodyrestaurants-react/static/js/2.bd9ddd25.chunk.js.map",
+    "index.html": "/foodyrestaurants-react/index.html",
+    "precache-manifest.8dbb6efc96e2567cd5ee2355d6b783b1.js": "/foodyrestaurants-react/precache-manifest.8dbb6efc96e2567cd5ee2355d6b783b1.js",
+    "service-worker.js": "/foodyrestaurants-react/service-worker.js",
+    "static/css/main.f6b05f27.chunk.css.map": "/foodyrestaurants-react/static/css/main.f6b05f27.chunk.css.map",
+    "static/js/2.bd9ddd25.chunk.js.LICENSE.txt": "/foodyrestaurants-react/static/js/2.bd9ddd25.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.951e2d57.js",
+    "static/js/2.bd9ddd25.chunk.js",
+    "static/css/main.f6b05f27.chunk.css",
+    "static/js/main.fbb6b49f.chunk.js"
+  ]
+}
