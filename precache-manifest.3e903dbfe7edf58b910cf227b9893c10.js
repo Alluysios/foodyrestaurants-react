@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "827eedcbed5261c54924d819b174692c",
+    "revision": "f8454fe0600accec7a667a7d6b7b0bf3",
     "url": "/foodyrestaurants-react/index.html"
   },
   {
-    "revision": "2775a17b7e1bd99187d8",
+    "revision": "9572ce832d92932c7149",
     "url": "/foodyrestaurants-react/static/css/main.f6b05f27.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodyrestaurants-react/static/js/2.bd9ddd25.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2775a17b7e1bd99187d8",
-    "url": "/foodyrestaurants-react/static/js/main.c210c48d.chunk.js"
+    "revision": "9572ce832d92932c7149",
+    "url": "/foodyrestaurants-react/static/js/main.e99d30f2.chunk.js"
   },
   {
     "revision": "b08c35228a36d845073a",
